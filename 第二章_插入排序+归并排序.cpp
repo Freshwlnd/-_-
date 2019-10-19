@@ -1,4 +1,4 @@
-//第一章_插入排序+归并排序
+//第二章_插入排序+归并排序
 
 #include<bits/stdc++.h>
 using namespace std;
