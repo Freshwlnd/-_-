@@ -1,4 +1,4 @@
-//第四周_快排
+//第七章_快速排序
 
 #include<bits/stdc++.h>
 using namespace std;
